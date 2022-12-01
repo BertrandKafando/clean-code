@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="ma.enset.CalculatorTest" time="0.002" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="ma.enset.CalculatorTest" time="0.079" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.5\bin"/>
-    <property name="sun.java.command" value="C:\Users\kafan\AppData\Local\Temp\surefire6596243540841639933\surefirebooter10255550062659329014.jar C:\Users\kafan\AppData\Local\Temp\surefire6596243540841639933 2022-11-28T08-12-11_320-jvmRun1 surefire8121374790106538057tmp surefire_01052487314157698212tmp"/>
+    <property name="sun.java.command" value="C:\Users\kafan\AppData\Local\Temp\surefire15733843432461548329\surefirebooter2549256597353109816.jar C:\Users\kafan\AppData\Local\Temp\surefire15733843432461548329 2022-11-28T08-52-09_094-jvmRun1 surefire16069799106322156449tmp surefire_06234780098929192799tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\docs\revision\Java\code\java_projets\ttd-calculator\target\test-classes;D:\docs\revision\Java\code\java_projets\ttd-calculator\target\classes;C:\Users\kafan\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.1\junit-jupiter-params-5.8.1.jar;C:\Users\kafan\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\kafan\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.2\junit-jupiter-api-5.4.2.jar;C:\Users\kafan\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\kafan\.m2\repository\org\junit\platform\junit-platform-commons\1.4.2\junit-platform-commons-1.4.2.jar;C:\Users\kafan\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.2\junit-jupiter-engine-5.4.2.jar;C:\Users\kafan\.m2\repository\org\junit\platform\junit-platform-engine\1.4.2\junit-platform-engine-1.4.2.jar;C:\Users\kafan\.m2\repository\org\assertj\assertj-core\3.13.2\assertj-core-3.13.2.jar;C:\Users\kafan\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\kafan\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\kafan\AppData\Local\Temp\surefire6596243540841639933\surefirebooter10255550062659329014.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\kafan\AppData\Local\Temp\surefire15733843432461548329\surefirebooter2549256597353109816.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.5+9-LTS-191"/>
@@ -56,8 +56,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testMultiplyPositiveNumbers" classname="ma.enset.CalculatorTest" time="0"/>
-  <testcase name="testAddTwoPositiveNumbers" classname="ma.enset.CalculatorTest" time="0"/>
-  <testcase name="testAddTwoNegativeNumbers" classname="ma.enset.CalculatorTest" time="0.001"/>
-  <testcase name="testAddTwoNegativeAndPositiveNumbers" classname="ma.enset.CalculatorTest" time="0"/>
+  <testcase name="testMultiplyPositiveNumbers" classname="ma.enset.CalculatorTest" time="0.075"/>
+  <testcase name="testAddTwoPositiveNumbers" classname="ma.enset.CalculatorTest" time="0.001"/>
+  <testcase name="testAddTwoNegativeNumbers" classname="ma.enset.CalculatorTest" time="0"/>
+  <testcase name="testAddTwoNegativeAndPositiveNumbers" classname="ma.enset.CalculatorTest" time="0.001"/>
 </testsuite>
